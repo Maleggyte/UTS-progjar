@@ -207,4 +207,6 @@ sys.exit(0) # Mengakhiri program dengan kode keluar 0
 ```
 OUTPUT
 ```sh
-gambar
+SS 1.png
+SS 2.png
+```
